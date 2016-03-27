@@ -40,7 +40,9 @@ $ jspm install angular2 zone.js reflect-metadata
 @edit app.html
 </code></pre>
 * run code with live-server
+
 ## new since beta.09
+
 * app.ts
 
 <pre><code>
