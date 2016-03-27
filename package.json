@@ -1,0 +1,30 @@
+{
+  "name": "a2seed-rob_jspm_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-bit/a2seed-rob_jspm_12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-bit/a2seed-rob_jspm_12/issues"
+  },
+  "homepage": "https://github.com/z-bit/a2seed-rob_jspm_12#readme",
+  "jspm": {
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-beta.12",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.3",
+      "zone.js": "npm:zone.js@^0.6.6"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}
